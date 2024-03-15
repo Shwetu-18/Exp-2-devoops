@@ -7,6 +7,6 @@ Experiment
 </head>
 <body>
 
-<h1>this is trhe experiment of devoops lab</h1>
+<h1>this is the experiment of devoops lab</h1>
 </body>
 </html>
